@@ -16,7 +16,7 @@ public class SignURLs extends JavaPlugin
 	private static SignURLs plugin;
 	private static Logger log = Logger.getLogger("Minecraft");
 	
-	public static final String PREFIX = ChatColor.DARK_GRAY + "[" + ChatColor.DARK_RED + "SignURLs" + ChatColor.DARK_GRAY + "] " + ChatColor.WHITE;
+	public static final String PREFIX = ChatColor.DARK_GRAY + "[" + ChatColor.GOLD + "Star Flare" + ChatColor.DARK_GRAY + "] " + ChatColor.WHITE;
 	public SignLisener signlisener = null;
 	public static Permission permission = null;
 	private static SQLite db;
